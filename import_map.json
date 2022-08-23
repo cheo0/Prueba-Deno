@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "lowdb": "https://esm.sh/lowdb@3.0.0",
+    "opine": "https://deno.land/x/opine@2.2.0/mod.ts",
+    "path/": "https://deno.land/std@0.152.0/path/",
+    "postgresjs": "https://deno.land/x/postgresjs@v3.2.4/mod.js",
+    "uuid/": "https://deno.land/std@0.152.0/uuid/",
+    "validasaur": "https://deno.land/x/validasaur@v0.15.0/mod.ts"
+  }
+}
